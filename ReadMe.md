@@ -1,2 +1,0 @@
-# Inclusion Bot
-## Automating Kindness
